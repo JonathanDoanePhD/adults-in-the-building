@@ -1,0 +1,9 @@
+schools,poverty_quartile,n_schools,counselors_per_1000,mental_health_per_1000,nurses_per_1000,officers_per_1000,pct_no_counselor,pct_officer_but_no_counselor,pct_meeting_250_to_1,chronic_absence_pct,oss_pct,support_staff_per_100_chronically_absent
+All schools,Lowest-poverty quarter,19650,2.26,1.16,0.96,0.30,23.15,2.67,12.66,9.60,2.29,6.21
+All schools,Q2,19648,2.35,0.99,1.02,0.37,18.95,2.39,15.70,14.33,4.31,3.10
+All schools,Q3,19649,2.17,0.94,1.01,0.37,22.90,2.77,12.35,17.92,5.78,2.36
+All schools,Highest-poverty quarter,19648,2.02,1.11,0.95,0.36,26.43,2.47,11.90,19.65,6.94,2.12
+High schools,Lowest-poverty quarter,4332,3.27,0.96,0.71,0.45,3.74,0.51,31.88,13.72,3.72,3.66
+High schools,Q2,5009,3.19,0.79,0.76,0.49,3.99,0.34,32.80,20.00,6.31,2.38
+High schools,Q3,3401,3.07,0.73,0.67,0.54,5.65,0.68,29.05,25.40,8.33,1.79
+High schools,Highest-poverty quarter,2525,3.23,0.99,0.68,0.69,8.16,1.19,34.14,29.10,10.00,1.71

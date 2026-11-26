@@ -1,0 +1,5 @@
+file,url,downloaded_utc,bytes,sha256
+ccd/ccd_sch_029_1718.zip,https://nces.ed.gov/ccd/Data/zip/ccd_sch_029_1718_w_1a_083118.zip,2026-11-13,13024336,32892d3dfffc94f3a1f85c3adcb9242089d19de8d25b0bd77959c71903228bc1
+ccd/ccd_sch_033_1718.zip,https://nces.ed.gov/ccd/Data/zip/ccd_sch_033_1718_l_1a_083118.zip,2026-11-13,11636172,46824aafbd3afd13519a6e923faf037f3545e4ce6cac9070d331eec8507af180
+crdc/2017-18-crdc-data.zip,https://civilrightsdata.ed.gov/assets/ocr/docs/2017-18-crdc-data.zip,2026-11-13,119899863,422d5cef8733c0d3084cb16e5ad4f459e38de943d3cd5118bc60c93d1e27511a
+crdc1516/2015-16-crdc-data.zip,https://civilrightsdata.ed.gov/assets/ocr/docs/2015-16-crdc-data.zip,2026-11-13,32403546,72f4e5f684802adb877f22964b867facbe3e38c2892dda650999833d2ace01a4

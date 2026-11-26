@@ -1,0 +1,40 @@
+sample,outcome,model,term,per_one_more_fte_per_1000,ci_low,ci_high,n_schools,n_districts
+All schools,Chronic absence (% of students),counselors only,counselors_per_1000,0.0954,-0.0237,0.2144,73213,10200
+All schools,Chronic absence (% of students),+ other staff,counselors_per_1000,0.0957,-0.0235,0.2149,73213,10200
+All schools,Chronic absence (% of students),+ other staff,mental_health_per_1000,0.6196,0.4866,0.7526,73213,10200
+All schools,Chronic absence (% of students),+ other staff,nurses_per_1000,-0.0967,-0.2543,0.0609,73213,10200
+All schools,Chronic absence (% of students),+ other staff,officers_per_1000,0.9922,0.6493,1.3350,73213,10200
+All schools,Out-of-school suspension (% of students),+ other staff,counselors_per_1000,0.1160,0.0449,0.1871,73969,10317
+All schools,Out-of-school suspension (% of students),+ other staff,mental_health_per_1000,0.2581,0.1752,0.3409,73969,10317
+All schools,Out-of-school suspension (% of students),+ other staff,nurses_per_1000,-0.1677,-0.2384,-0.0970,73969,10317
+All schools,Out-of-school suspension (% of students),+ other staff,officers_per_1000,0.8375,0.5903,1.0847,73969,10317
+All schools,Referrals to law enforcement per 100 students,+ other staff,counselors_per_1000,0.0034,-0.0145,0.0214,73859,10312
+All schools,Referrals to law enforcement per 100 students,+ other staff,mental_health_per_1000,-0.0052,-0.0302,0.0198,73859,10312
+All schools,Referrals to law enforcement per 100 students,+ other staff,nurses_per_1000,0.0036,-0.0210,0.0283,73859,10312
+All schools,Referrals to law enforcement per 100 students,+ other staff,officers_per_1000,0.1224,0.0726,0.1723,73859,10312
+High schools,Chronic absence (% of students),counselors only,counselors_per_1000,0.5637,-0.1551,1.2825,6546,1414
+High schools,Chronic absence (% of students),+ other staff,counselors_per_1000,0.3848,-0.2537,1.0233,6546,1414
+High schools,Chronic absence (% of students),+ other staff,mental_health_per_1000,2.0995,1.1205,3.0786,6546,1414
+High schools,Chronic absence (% of students),+ other staff,nurses_per_1000,-0.6350,-1.7657,0.4957,6546,1414
+High schools,Chronic absence (% of students),+ other staff,officers_per_1000,1.7483,0.8734,2.6232,6546,1414
+High schools,Out-of-school suspension (% of students),+ other staff,counselors_per_1000,0.4359,0.2643,0.6075,6672,1433
+High schools,Out-of-school suspension (% of students),+ other staff,mental_health_per_1000,0.8484,0.4317,1.2651,6672,1433
+High schools,Out-of-school suspension (% of students),+ other staff,nurses_per_1000,0.2128,-0.2007,0.6263,6672,1433
+High schools,Out-of-school suspension (% of students),+ other staff,officers_per_1000,0.9325,0.2580,1.6070,6672,1433
+High schools,Referrals to law enforcement per 100 students,+ other staff,counselors_per_1000,-0.0136,-0.1010,0.0739,6662,1431
+High schools,Referrals to law enforcement per 100 students,+ other staff,mental_health_per_1000,-0.0169,-0.1904,0.1565,6662,1431
+High schools,Referrals to law enforcement per 100 students,+ other staff,nurses_per_1000,-0.0079,-0.1259,0.1100,6662,1431
+High schools,Referrals to law enforcement per 100 students,+ other staff,officers_per_1000,0.2788,0.1506,0.4071,6662,1431
+High-poverty half,Chronic absence (% of students),counselors only,counselors_per_1000,0.3095,0.0792,0.5397,35313,4715
+High-poverty half,Chronic absence (% of students),+ other staff,counselors_per_1000,0.3044,0.0740,0.5348,35313,4715
+High-poverty half,Chronic absence (% of students),+ other staff,mental_health_per_1000,0.8769,0.6671,1.0867,35313,4715
+High-poverty half,Chronic absence (% of students),+ other staff,nurses_per_1000,-0.2068,-0.4455,0.0318,35313,4715
+High-poverty half,Chronic absence (% of students),+ other staff,officers_per_1000,1.0979,0.5546,1.6412,35313,4715
+High-poverty half,Out-of-school suspension (% of students),+ other staff,counselors_per_1000,0.2659,0.1046,0.4272,35600,4754
+High-poverty half,Out-of-school suspension (% of students),+ other staff,mental_health_per_1000,0.3637,0.2204,0.5070,35600,4754
+High-poverty half,Out-of-school suspension (% of students),+ other staff,nurses_per_1000,-0.2294,-0.3365,-0.1223,35600,4754
+High-poverty half,Out-of-school suspension (% of students),+ other staff,officers_per_1000,0.9726,0.5867,1.3585,35600,4754
+High-poverty half,Referrals to law enforcement per 100 students,+ other staff,counselors_per_1000,0.0384,0.0082,0.0686,35537,4751
+High-poverty half,Referrals to law enforcement per 100 students,+ other staff,mental_health_per_1000,-0.0150,-0.0628,0.0328,35537,4751
+High-poverty half,Referrals to law enforcement per 100 students,+ other staff,nurses_per_1000,0.0011,-0.0402,0.0424,35537,4751
+High-poverty half,Referrals to law enforcement per 100 students,+ other staff,officers_per_1000,0.1050,0.0346,0.1753,35537,4751

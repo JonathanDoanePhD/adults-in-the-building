@@ -1,0 +1,5 @@
+file,url,source,license,unzip
+crdc/2017-18-crdc-data.zip,https://civilrightsdata.ed.gov/assets/ocr/docs/2017-18-crdc-data.zip,Civil Rights Data Collection 2017-18 (school level),U.S. government work (public domain),yes
+ccd/ccd_sch_033_1718.zip,https://nces.ed.gov/ccd/Data/zip/ccd_sch_033_1718_l_1a_083118.zip,NCES Common Core of Data 2017-18 free/reduced-price lunch,U.S. government work (public domain),yes
+ccd/ccd_sch_029_1718.zip,https://nces.ed.gov/ccd/Data/zip/ccd_sch_029_1718_w_1a_083118.zip,NCES Common Core of Data 2017-18 school directory (level and locale),U.S. government work (public domain),yes
+crdc1516/2015-16-crdc-data.zip,https://civilrightsdata.ed.gov/assets/ocr/docs/2015-16-crdc-data.zip,Civil Rights Data Collection 2015-16 (school level; for change over time),U.S. government work (public domain),yes
